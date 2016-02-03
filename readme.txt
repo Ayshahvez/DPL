@@ -27,10 +27,14 @@ NOTE BRIEFLY VERY IMPORTANT FOR "arraysFunct.xlsb" file
 NOTE....................................................................................
 The square folder contain project used to build square.DLL function file
 The squareC++ folder contain project used to build squareC++.DLL function file
-The "DLLfiles" folder contain the executable DLL files for square function written in C and C++.
+The arrayDLL folder contain project used to build arrayDLL .DLL function file
+
 The "square.dll" file was written in C
 The "squareC++.dll" file was written in C++
-Both DLL files were created when the function were build and compiled respectively
+The "arrayDLL .DLL" file was written in C++
+
+The DLL files were created when the function were build and compiled respectively in C/C++ environments
+The "DLLfiles" folder contain the executable DLL files for square function written in C and C++.
 ...........................................................................................
 
 
