@@ -1,0 +1,14 @@
+﻿Build started 2/1/2016 3:25:11 PM.
+     1>Project "C:\Users\HPUSER\Documents\Visual Studio 2013\Projects\arrayDLL\arrayDLL\arrayDLL.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\hpuser\documents\visual studio 2013\projects\arraydll\x64\debug\arraydll.dll' is denied.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D ARRAYDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /analyze /errorReport:prompt   /analyze:quiet arrayFunc.c
+         arrayFunc.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HPUSER\Documents\Visual Studio 2013\Projects\arrayDLL\x64\Debug\arrayDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"defFile.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\HPUSER\Documents\Visual Studio 2013\Projects\arrayDLL\x64\Debug\arrayDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HPUSER\Documents\Visual Studio 2013\Projects\arrayDLL\x64\Debug\arrayDLL.lib" /MACHINE:X64 /DLL x64\Debug\arrayFunc.obj
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\HPUSER\Documents\Visual Studio 2013\Projects\arrayDLL\x64\Debug\arrayDLL.dll'
+     1>Done Building Project "C:\Users\HPUSER\Documents\Visual Studio 2013\Projects\arrayDLL\arrayDLL\arrayDLL.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.11
