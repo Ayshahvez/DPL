@@ -2,8 +2,8 @@ here i will demonstrate how to perform interopability between VB script and C/C+
 YOU can check the appendix.doc in DPL folder for explanation of the demo codes demonstrating interaperability
 
 :-STEPS TO FOLLOW
-1) download the DPL.zip from github
-2) Extract the DPL.zip onto your Desktop
+1) download the DPL.zip from github; it will be downloaded as DPL-master.zip but extaract and save as DPL
+2) Extract the DPL-master.zip and ensure it is called DPL onto your Desktop
 
 NOTE BRIEFLY VERY IMPORTANT FOR "squareFunct.xlsb" file
 3) now make the following changes
